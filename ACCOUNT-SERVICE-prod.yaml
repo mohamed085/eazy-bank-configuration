@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "{cipher}d370bfda54722db67e62df3f35aa799150c90784273b4fd39031ec40a905766e72f5b7ff025a5fc8f50807a124b5d5c19c44c7951524ece5b8196288d47723ae"
-    email: "{cipher}d370bfda54722db67e62df3f35aa799150c90784273b4fd39031ec40a905766e72f5b7ff025a5fc8f50807a124b5d5c19c44c7951524ece5b8196288d47723ae"
+    email: "{cipher}11371886526b3e8282fa97e2705b6e6000d6df09f4ed5c3a1d0f69d0ce2bea713b564ee0f3dc236874053eb645d001ea"
   onCallSupport:
     - "{cipher}68f88c9bd09817f66b1db29a46293bb16f39c4ad44bcaa1d721f744b6b24b38a"
