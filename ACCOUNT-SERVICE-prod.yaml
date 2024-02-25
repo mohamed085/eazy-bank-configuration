@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "Mohamed Emad - Developer"
-    email: "mohamed.emad.hashad@gmail.com"
+    name: d370bfda54722db67e62df3f35aa799150c90784273b4fd39031ec40a905766e72f5b7ff025a5fc8f50807a124b5d5c19c44c7951524ece5b8196288d47723ae
+    email: d370bfda54722db67e62df3f35aa799150c90784273b4fd39031ec40a905766e72f5b7ff025a5fc8f50807a124b5d5c19c44c7951524ece5b8196288d47723ae
   onCallSupport:
-    - +201062202253
+    - 68f88c9bd09817f66b1db29a46293bb16f39c4ad44bcaa1d721f744b6b24b38a
